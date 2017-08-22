@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`findByIdWithSeasons should return the show details with the season details 1`] = `
+Object {
+  "seasons": Array [
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+    Object {
+      "episodes": undefined,
+      "title": "Hello world",
+      "totalSeasons": "12",
+    },
+  ],
+  "title": "Hello world",
+  "totalSeasons": "12",
+}
+`;
